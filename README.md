@@ -1,7 +1,9 @@
 lisless
 ============
 
-extension compiles CSS from given LESS file
+Extension compiles CSS from given LESS file
+
+Usage in templates: {ezcss_require('less::lessc::file.less')}
 
 Requirements:
 -------------
